@@ -7,7 +7,7 @@ const config = (post) => {
         "publicKey": "test_public_key_8fca9f8a93064f128c73600c7d3698e8",
         "productIdentity": "1234567890",
         "productName": "Drogon",
-        "productUrl": "/",
+        "productUrl": "https://mero-bazar.herokuapp.com/",
         "eventHandler": {
             onSuccess(payload) {
             
