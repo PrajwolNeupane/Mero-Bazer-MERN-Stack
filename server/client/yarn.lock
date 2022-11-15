@@ -11099,10 +11099,10 @@ react-slick@^0.29.0:
     lodash.debounce "^4.0.8"
     resize-observer-polyfill "^1.5.0"
 
-react-spinner@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/react-spinner/-/react-spinner-0.1.4.tgz#18ed379c6dfb7a3c0bfa84471c802021eed2bc8f"
-  integrity sha512-5PJbg3uuImGlTU3sKl0uMdr53hExtXB1hDe42U+1sMJwb89Z/cZcLA+a6Xn+/zuqLOICU6zlyOib7e0SyqDioA==
+react-spinner@^0.2.7:
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/react-spinner/-/react-spinner-0.2.7.tgz#ea3ca3375dd7a54edbb5cc01d17496a2e2fc14db"
+  integrity sha512-9bIDWGIumXpM7xcas/qpikRZp7AGP1uehgxwTTj/5DL6SwWHMTLfuioYgX7bdeMgOiVEMvOgLyXU3fYKQc16IA==
 
 react-spinners@^0.13.3:
   version "0.13.3"
